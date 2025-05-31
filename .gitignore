@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment files
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Python version management
+.python-version
+
+# Git files
+.git/
+
+# Data simulation files (if not needed in repo)
+data/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+
+# Notebook output (optional if using .ipynb files)
+*.ipynb
+
+# Other cache
+.cache/
